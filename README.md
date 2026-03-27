@@ -24,7 +24,7 @@ In every repository, I prioritize secret management and code sanitization. I app
 ---
 
 ### 📊 GitHub Stats
-![Domenico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimmo28&show_icons=true&theme=tokyonight)
+[![Domenico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimmo28&show_icons=true&theme=tokyonight)](https://github.com/Mimmo28)
 
 ---
 
