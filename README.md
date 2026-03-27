@@ -25,3 +25,14 @@ In every repository, I prioritize secret management and code sanitization. I app
 
 ### 📊 GitHub Stats
 ![Domenico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimmo28&show_icons=true&theme=tokyonight)
+
+---
+
+### 📂 Technical Project Showcase
+To maintain **Confidentiality** and protect intellectual property while remaining transparent about my engineering process, I have created a dedicated documentation hub. 
+
+In the [**PROJECTS**](https://github.com/Mimmo28/PROJECTS) repository, you can explore the high-level architectures, performance audits, and **Security-by-Design** implementations of my private builds. It serves as a "white paper" collection for my work in **Astro**, **TypeScript**, and **Secure Systems**.
+
+👉 [**Explore my Project Architectures & Documentation ➔**](https://github.com/Mimmo28/PROJECTS)
+
+---
