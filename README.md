@@ -38,6 +38,8 @@ To protect business logic and proprietary client code while keeping engineering 
 | [**Luxelia**](https://github.com/Mimmo28/PROJECTS/blob/main/projects/luxelia.md) | SEO Plugin & E-commerce Automation | PHP, WordPress, WooCommerce, REST APIs |
 | [**Lectio**](https://github.com/Mimmo28/PROJECTS/blob/main/projects/lectio.md) | AI-Powered Lecture Slide Augmentation Engine | Python, PyMuPDF, Gemini API, Chromium Headless |
 | [**CourtMate**](https://github.com/Mimmo28/PROJECTS/blob/main/projects/courtmate.md) | 3-Tier Sports Facility Management System | Java, JavaFX, MySQL, JDBC, UML |
+| [**Android Railway Services**](https://github.com/Mimmo28/PROJECTS/blob/main/projects/android-railway-services.md) | Mobile Transit App & Backend | Kotlin, Android Studio, Flask |
+| [**Satellite Feedback Control**](https://github.com/Mimmo28/PROJECTS/blob/main/projects/satellite-feedback-control.md) | Satellite Attitude & Orbit Simulation | MATLAB, Simulink, SISO Tool |
 | [**FreeRTOS Schedulers**](https://github.com/Mimmo28/PROJECTS/blob/main/projects/freertos-scheduling.md) | Real-Time Embedded Systems Scheduling | C, FreeRTOS |
 | [**MegaShopArredi**](https://github.com/Mimmo28/PROJECTS/blob/main/projects/megashoparredi.md) | High-Performance Static E-Commerce | Astro 6, Tailwind CSS 4, PHP, i18n |
 | [**MarcoTendaggi**](https://github.com/Mimmo28/PROJECTS/blob/main/projects/marcotendaggi.md) | Modern Corporate SME Web Platform | Astro, Tailwind CSS 4, TypeScript |
